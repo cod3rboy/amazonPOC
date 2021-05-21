@@ -1,0 +1,8 @@
+{
+	"cucumberJsonReportDirectory": "./reports/json/",
+	"cucumberHtmlReportFile": "./reports/cucumber-tests.html",
+	"logDirectory": "./logs/",
+	"amazonUserEmail": "YXZpbmFzaGt1bWFyMjAyMTAzQGdtYWlsLmNvbQ==",
+	"amazonUserPassword": "VGVzdEAwMQ==",
+	"homeUrl": "https://www.amazon.in/"
+}
